@@ -1,0 +1,47 @@
+.giraffe_description { 
+	font-style: italic;
+ }
+
+.items {
+ font-weight: bold;
+  }
+
+.giraffe_name { 
+  
+  font-size: 36px;
+   }
+
+li { 
+	list-style: none;
+}
+
+ul { 
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+#main_border { 
+	border: 2px solid #62BFED;
+	margin: auto;
+	padding: 10px;
+	text-align: left; 
+	max-width: 300px; 
+	border-radius: 15px 50px;
+	box-shadow: 1px 5px 5px #90D7FF;
+	background-color: #E6EED6;
+
+}
+
+#intrest_border { 
+	border: 2px solid #C1C9D1;
+	border-radius: 0px 0px 15px 40px;
+	padding: 10px 12px;
+	margin-top: 15px; 
+	background-color: #e6eee6;
+}
+ 
+#giraffe_image { 
+	box-shadow: 1px 1px #c1c9c9;
+	width: 300px;
+}
