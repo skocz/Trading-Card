@@ -3,22 +3,21 @@
  }
 
 .items {
- font-weight: bold;
+	 font-weight: bold;
   }
 
 .giraffe_name { 
-  
-  font-size: 36px;
-   }
+  	font-size: 36px;
+}
 
 li { 
 	list-style: none;
 }
 
 ul { 
-  margin: 0;
-  padding: 0;
-  text-align: left;
+	margin: 0;
+	padding: 0;
+	text-align: left;
 }
 
 #main_border { 
@@ -30,7 +29,6 @@ ul {
 	border-radius: 15px 50px;
 	box-shadow: 1px 5px 5px #90D7FF;
 	background-color: #E6EED6;
-
 }
 
 #intrest_border { 
