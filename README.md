@@ -1,6 +1,6 @@
 # Trading-Card
 
-##Udacity-Trading-Card
+## Udacity-Trading-Card
 
 Using CSS following styles were added:
 
