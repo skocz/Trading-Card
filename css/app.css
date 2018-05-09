@@ -1,11 +1,14 @@
-p { padding: 0 5px; }
+p { 
+	padding: 0 5px;
+}
+
 .giraffe_description { 
 	font-style: italic;
- }
+}
 
 .items {
 	 font-weight: bold;
-  }
+}
 
 .giraffe_name { 
   	font-size: 36px;
